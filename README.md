@@ -3,7 +3,7 @@ A command-line Tic-Tac-Toe game in C featuring an unbeatable AI opponent impleme
 ```make``
 
 ### Run
-./a.out
+.so
 
 ### Example Output
 ```
